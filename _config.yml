@@ -14,9 +14,9 @@ author:
   github: http://github.com/suyan
 
 # 站点信息
-title: 闫肃的博客 
-description: 闫肃的博客
-url: http://yansu.org
+title: 李瑞峰的博客 
+description: 李瑞峰的博客
+url: http://ruifli.com
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
@@ -26,7 +26,7 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 # google analytics 设置
 ga:
   id: UA-54767140-1
-  url: yansu.org
+  url: ruifli.com
 
 # disqus 设置
 disqus:
